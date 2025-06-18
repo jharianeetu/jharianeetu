@@ -40,3 +40,6 @@
 ### ⚡ Fun Fact
 
 I love solving coding problems and building intelligent systems with real-world impact!
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jharianeetu.jharianeetu)
+
