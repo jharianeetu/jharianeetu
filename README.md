@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), Java, C++, SQL  
+**Languages:** Python, C++, SQL, Java
 **Frameworks & Tools:** Streamlit, Gradio, LangChain, OpenAI, MySQL, Spring Boot  
 **AI/ML:** OpenAI APIs, NLP, Deep Learning, LLMs  
 **Cloud & Tools:** AWS, Power BI, Git, Microsoft Excel  
