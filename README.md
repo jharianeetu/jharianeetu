@@ -45,5 +45,6 @@ I love solving coding problems and building intelligent systems with real-world 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jharianeetu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Neetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharianeetu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jharianeetu&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jharianeetu&theme=tokyonight)](https://git.io/streak-stats)
 
 
