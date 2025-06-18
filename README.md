@@ -43,5 +43,6 @@ I love solving coding problems and building intelligent systems with real-world 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jharianeetu.jharianeetu)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jharianeetu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Neetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharianeetu&show_icons=true&theme=radical)
 
 
