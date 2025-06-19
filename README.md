@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://assets8.lottiefiles.com/temp/lf20_ZYbSLD.json.gif" width="300" alt="girl coding at desk" />
+  <img src="https://assets8.lottiefiles.com/temp/lf20_ZYbSLD.json.gif" width="150" alt="girl coding at desk" />
 </p>
 
 🎓 MCA Graduate from NIT Bhopal  
