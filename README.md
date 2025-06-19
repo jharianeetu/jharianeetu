@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-iconscout.com/lottie/animations/female-developer-5942136_4936308.gif" width="300" alt="female developer animation" />
+  <img src="https://cdn-iconscout.com/lottie/animations/female-web-developer.gif" width="300" alt="female web developer" />
 </p>
 
 ## Hi there 👋
