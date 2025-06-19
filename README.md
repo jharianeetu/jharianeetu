@@ -1,11 +1,8 @@
-
-
-## Hi there 👋
-
 <p align="center">
-  <img src="https://assets8.lottiefiles.com/temp/lf20_ZYbSLD.json.gif" width="150" alt="girl coding at desk" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="female developer" />
 </p>
 
+## Hi there 👋
 🎓 MCA Graduate from NIT Bhopal  
 💻 Python Gen AI Developer Intern @ Neolen Services  
 🔍 Passionate about Data Structures, C++, backend development using Python, Machine Learning, Artificial Intelligence, OpenAI APIs, LLM, NLP, and Deep Learning
