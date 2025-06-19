@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coder gif">
+</p>
+
 ## Hi there 👋
 
 🎓 MCA Graduate from NIT Bhopal  
