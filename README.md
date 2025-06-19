@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://assets7.lottiefiles.com/temp/lf20_nYF1xR.json.gif" width="300" alt="girl on computer with idea" />
+  <img src="https://assets8.lottiefiles.com/temp/lf20_ZYbSLD.json.gif" width="300" alt="girl coding at desk" />
 </p>
-
 ## Hi there 👋
 
 🎓 MCA Graduate from NIT Bhopal  
