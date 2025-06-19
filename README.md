@@ -53,12 +53,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jharianeetu/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 ### ⚡ Fun Fact
 
 I love solving coding problems and building intelligent systems with real-world impact!
 
 
-<p align="center">
-  <img src="https://github.com/jharianeetu/jharianeetu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
