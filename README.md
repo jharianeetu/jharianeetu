@@ -1,5 +1,6 @@
-![Alt Text](https://your-image-url.com/tech-girl.gif)
-
+<p align="center">
+  <img src="https://assets7.lottiefiles.com/temp/lf20_nYF1xR.json.gif" width="300" alt="girl on computer with idea" />
+</p>
 
 ## Hi there 👋
 
