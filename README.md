@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="female developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=435&lines=Python+%7C+Java+%7C+GenAI+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ## Hi there 👋
