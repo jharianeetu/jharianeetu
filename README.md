@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=435&lines=Python+%7C+Java+%7C+GenAI+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-p align="center">
+<p align="center">
   <img src="./web%20development%20GIF.gif" width="300" alt="Girl coding animation" />
 </p>
 
