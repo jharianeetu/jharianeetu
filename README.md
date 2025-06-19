@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" alt="girl coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMzNzdlNWNkODVkOTQxYjEwYWMxOTBlM2NkYjE5NmFhZmQzMmNiMCZjdD1n/XULfJ0J5x1v7beoUj2/giphy.gif" width="300" alt="girl coding" />
 </p>
+
 
 ## Hi there 👋
 🎓 MCA Graduate from NIT Bhopal  
