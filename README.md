@@ -56,3 +56,9 @@
 ### ⚡ Fun Fact
 
 I love solving coding problems and building intelligent systems with real-world impact!
+
+
+<p align="center">
+  <img src="https://github.com/jharianeetu/jharianeetu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
